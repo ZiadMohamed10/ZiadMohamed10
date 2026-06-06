@@ -1,2 +1,2 @@
 <h1 align="center">Hi, I'm Ziad Mohamed</h1>
-<h3 align="center">A Front-end Developer</h3>
+<h3 align="center">Front-end Developer</h3>
